@@ -12,3 +12,7 @@ DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,urbanairship.com
 DOMAIN-SUFFIX,singular.net
 DOMAIN-SUFFIX,optimizely.com
+DOMAIN,cloud.estimote.com
+DOMAIN,dpm.demdex.net
+DOMAIN,assets.adobedtm.com
+DOMAIN,cdn-settings.segment.com
