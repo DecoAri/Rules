@@ -1,14 +1,3 @@
-#IP看节点决定直连代理UDP
-#TFT
-IP-CIDR,43.229.0.0/16
-#
-IP-CIDR,129.226.0.0/16
-#Korea
-IP-CIDR,119.28.0.0/16
-#HongKong
-IP-CIDR,150.109.0.0/16
-#HongKong
-IP-CIDR,101.32.0.0/16
 #ping
 DOMAIN,speedtest.cros.wr.pvp.net
 #other
