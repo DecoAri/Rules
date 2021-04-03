@@ -1,12 +1,13 @@
-所有规则纯自己抓包写成(复制来源文件内说明From where）
-请不要抄袭据为己有(这是供大家用的)
-原创若是我这里复制克隆请自行说明
-支持分享clone和借鉴
-通为自用，仅仅写我自己需要的
-对于其他GitHuber规则有区域限制🚫或者不全的我按自己需求改了一下
-😾😾😾🙈
+❶. Just writing for what I need.
+❷. Just modifying for what I need.
+❸. No anything responsibility to me.
+❹. Please mark rules’ recourse which is made by myself. 
+❺. Do not require anything.
+❻. Only rules made by myself have copyright.
+❼. I think the modified rules also have copyright. I fixed it. I changed the region.
+❽. The totally same Rule files do not have copyright.
+❾. Hope y’all can comply with my rules.
 
 
-Sum up: 纯自己抓写请标明来源
-        其余Modify他人的
-        Because something wrong.
+
+Copyright: Deco
