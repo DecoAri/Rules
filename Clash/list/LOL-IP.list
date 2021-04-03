@@ -1,0 +1,12 @@
+#UDP转发，节点必须支持。IP范围较大，若有issue请提出
+#看节点或地区决定直连代理UDP
+#TFT
+IP-CIDR,43.229.0.0/16
+#
+IP-CIDR,129.226.0.0/16
+#Korea
+IP-CIDR,119.28.0.0/16
+#HongKong
+IP-CIDR,150.109.0.0/16
+#HongKong
+IP-CIDR,101.32.0.0/16
