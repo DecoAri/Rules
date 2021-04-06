@@ -1,6 +1,4 @@
-#ping
-HOST,speedtest.cros.wr.pvp.net
-#other
+#Remove Domain which relies on UDP.
 HOST,s9.gp1.wac.gammacdn.net
 HOST,auth.riotgames.com.cdn.cloudflare.net
 HOST-SUFFIX,leagueoflegends.com

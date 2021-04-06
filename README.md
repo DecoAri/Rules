@@ -16,6 +16,8 @@
 
 ❾. Hope y’all can comply with my rules.
 
+⚠️Do not make issues or bother me if you don't know how to use them.
 
+⚠️Rules in Quantumult were not completed. Please don't use them.
 
 Copyright: Deco
