@@ -1,5 +1,6 @@
-#ping
+#UDP，待修整
 DOMAIN,speedtest.cros.wr.pvp.net
+DOMAIN-SUFFIX,gvoice.cros.wr.pvp.net
 #other
 DOMAIN,s9.gp1.wac.gammacdn.net
 DOMAIN,auth.riotgames.com.cdn.cloudflare.net
