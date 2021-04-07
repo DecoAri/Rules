@@ -20,4 +20,6 @@
 
 ⚠️Rules in Quantumult were not completed. Please don't use them.
 
+You will get the information of the copied rules from aother Githuber in files.
+        
 Copyright: Deco
