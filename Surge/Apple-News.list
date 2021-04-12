@@ -1,0 +1,10 @@
+DOMAIN,apple.comscoreresearch.com,AppleNews
+DOMAIN,gateway.icloud.com,AppleNews
+DOMAIN,gspe1-ssl.ls.apple.com,AppleNews
+DOMAIN,news-assets.apple.com,AppleNews
+DOMAIN,news-client.apple.com,AppleNews
+DOMAIN,news-edge.apple.com,AppleNews
+DOMAIN,news-events.apple.com,AppleNews
+DOMAIN-SUFFIX,apple.news,AppleNews
+USER-AGENT,AppleNews*,AppleNews
+USER-AGENT,com.apple.news*,AppleNews
