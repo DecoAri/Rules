@@ -14,7 +14,7 @@ USER-AGENT,geod*
 USER-AGENT,locationd*
 USER-AGENT,Maps*
 HOST,api.smoot.apple.com
-HOST,captive.apple.com
+domain,captive.apple.com
 HOST,configuration.apple.com
 HOST,guzzoni.apple.com
 HOST,smp-device-content.apple.com
