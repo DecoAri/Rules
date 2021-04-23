@@ -4,7 +4,6 @@ DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,orayimg.com
 DOMAIN-SUFFIX,oray.com
 DOMAIN,www.dictionarystore.com
-USER-AGENT,Outlook
 DOMAIN-SUFFIX,baidu.com
 DOMAIN,self.events.data.microsoft.com
 DOMAIN,outlook.office.com
@@ -17,5 +16,6 @@ DOMAIN-SUFFIX,cdngslb.com
 DOMAIN-SUFFIX,tbcache.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alibabadns.com
-DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,tmall.com
+USER-AGENT,Outlook
