@@ -17,3 +17,5 @@ IP-CIDR,150.109.0.0/16,no-resolve
 IP-CIDR,101.32.0.0/16,no-resolve
 #JP
 IP-CIDR,124.156.0.0/16,no-resolve
+
+96.213.204.110:17777
