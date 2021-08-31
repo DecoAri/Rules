@@ -24,3 +24,5 @@ HOST-SUFFIX,tmall.com
 HOST-SUFFIX,alibaba.com
 HOST,apmconfig.douyucdn.cn.wsglb0.com
 HOST,bj29.cn-beijing.data.alicloudccp.com
+HOST-SUFFIX,wechat.com
+HOST-SUFFIX,servicewechat.com
