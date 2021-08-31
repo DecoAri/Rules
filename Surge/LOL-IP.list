@@ -2,6 +2,7 @@
 #Large IP range. Do not use this .list if you don’t know.
 #Sometimes The client or remote client will refuse connection. Please check connections off with yourself.
 #The protocol rule in Surge 4 is very useful for UDP request. Use it if you know about it.
+#please use logical rule to avoid using WeChat IPs.
 #UDP Domain
 DOMAIN,speedtest.cros.wr.pvp.net
 DOMAIN-SUFFIX,gvoice.cros.wr.pvp.net
