@@ -3,4 +3,6 @@ DOMAIN,app.adjust.net.in
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN,control.vpn.qq.com
+DOMAIN-SUFFIX,jddebug.com
+DOMAIN,homepage-gw.jd.com
 URL-REGEX,^https:\/\/www\.google\.com\/ads\/measurement\/t$

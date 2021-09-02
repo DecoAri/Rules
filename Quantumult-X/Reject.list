@@ -3,4 +3,6 @@ HOST,app.adjust.net.in
 HOST-SUFFIX,google-analytics.com
 HOST-SUFFIX,app-measurement.com
 HOST,control.vpn.qq.com
+DOMAIN-SUFFIX,jddebug.com
+DOMAIN,homepage-gw.jd.com
 URL-REGEX,^https:\/\/www\.google\.com\/ads\/measurement\/t$
