@@ -3,7 +3,7 @@
 #Sometimes The client or remote client will refuse connection. Please check connections off with yourself.
 #The protocol rule in Surge 4 is very useful for UDP request. Use it if you know about it.
 #UDP Domain
-HOST,speedtest.cros.wr.pvp.net
+HOST-SUFFIX,*speedtest.cros.wr.pvp.net
 HOST-SUFFIX,gvoice.cros.wr.pvp.net
 #TFT
 IP-CIDR,43.229.0.0/16,no-resolve
