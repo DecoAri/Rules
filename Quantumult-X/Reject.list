@@ -8,4 +8,4 @@ HOST-SUFFIX,app-measurement.com
 HOST,control.vpn.qq.com
 HOST-SUFFIX,jddebug.com
 HOST,homepage-gw.jd.com
-URL-REGEX,^https:\/\/www\.google\.com\/ads\/measurement\/t$
+URL-REGEX,^https:\/\/www\.google\.com\/ads
