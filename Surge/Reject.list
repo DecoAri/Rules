@@ -19,4 +19,11 @@ DOMAIN,ad.360yield.com
 DOMAIN,ads.stickyadstv.com
 DOMAIN-KEYWORD,analytics
 DOMAIN,cdn.stickyadstv.com
+DOMAIN,g1.tagtic.cn
+DOMAIN,img.adnyg.com
+DOMAIN,img.adnyg.com.w.kunlungr.com
+DOMAIN,log.tagtic.cn
+DOMAIN,pgdt.ugdtimg.com
+DOMAIN,sdownload.stargame.com
+DOMAIN,ulogs.umeng.com
 URL-REGEX,^https:\/\/www\.google\.com\/ads

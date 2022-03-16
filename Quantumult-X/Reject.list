@@ -18,4 +18,11 @@ HOST,ad.360yield.com
 HOST,ads.stickyadstv.com
 HOST-KEYWORD,analytics
 HOST,cdn.stickyadstv.com
+HOST,g1.tagtic.cn
+HOST,img.adnyg.com
+HOST,img.adnyg.com.w.kunlungr.com
+HOST,log.tagtic.cn
+HOST,pgdt.ugdtimg.com
+HOST,sdownload.stargame.com
+HOST,ulogs.umeng.com
 URL-REGEX,^https:\/\/www\.google\.com\/ads
