@@ -11,4 +11,12 @@ DOMAIN-SUFFIX,jddebug.com
 DOMAIN,homepage-gw.jd.com
 DOMAIN,analytics.95516.com
 DOMAIN,ads.95516.com
+DOMAIN,ads.stickyadstv.com
+DOMAIN,pixel.adsafeprotected.com
+DOMAIN-SUFFIX,ads.yieldmo.com
+DOMAIN-SUFFIX,smartadserver.com
+DOMAIN,ad.360yield.com
+DOMAIN,ads.stickyadstv.com
+DOMAIN-KEYWORD,analytics
+DOMAIN,cdn.stickyadstv.com
 URL-REGEX,^https:\/\/www\.google\.com\/ads

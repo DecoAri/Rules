@@ -261,6 +261,14 @@ DOMAIN-SUFFIX,welcometobestbuy.ca
 DOMAIN-SUFFIX,wolfatbestbuy.com
 DOMAIN-SUFFIX,wolfatbestbuy.net
 DOMAIN-SUFFIX,www-bestbuystores.com
+DOMAIN-SUFFIX,marketingcloudapis.com
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,ensighten.com
+DOMAIN,in.appcenter.ms
+DOMAIN,m.csqtrk.net
+DOMAIN-SUFFIX,smartystreets.com
+DOMAIN-SUFFIX,ensighten.com
+DOMAIN-KEYWORD,bestbuy
 IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
 IP-CIDR,18.184.0.0/15,no-resolve
