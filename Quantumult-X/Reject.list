@@ -8,4 +8,14 @@ HOST-SUFFIX,app-measurement.com
 HOST,control.vpn.qq.com
 HOST-SUFFIX,jddebug.com
 HOST,homepage-gw.jd.com
+HOST,analytics.95516.com
+HOST,ads.95516.com
+HOST,ads.stickyadstv.com
+HOST,pixel.adsafeprotected.com
+HOST-SUFFIX,ads.yieldmo.com
+HOST-SUFFIX,smartadserver.com
+HOST,ad.360yield.com
+HOST,ads.stickyadstv.com
+HOST-KEYWORD,analytics
+HOST,cdn.stickyadstv.com
 URL-REGEX,^https:\/\/www\.google\.com\/ads
