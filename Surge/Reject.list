@@ -9,4 +9,6 @@ DOMAIN-SUFFIX,app-measurement.com
 DOMAIN,control.vpn.qq.com
 DOMAIN-SUFFIX,jddebug.com
 DOMAIN,homepage-gw.jd.com
+DOMAIN,analytics.95516.com
+DOMAIN,ads.95516.com
 URL-REGEX,^https:\/\/www\.google\.com\/ads
