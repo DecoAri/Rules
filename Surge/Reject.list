@@ -27,4 +27,5 @@ DOMAIN,pgdt.ugdtimg.com
 DOMAIN,sdownload.stargame.com
 DOMAIN,ulogs.umeng.com
 DOMAIN-KEYWORD,googleads
+DOMAIN,ulogs.umengcloud.com
 URL-REGEX,^https:\/\/www\.google\.com\/ads

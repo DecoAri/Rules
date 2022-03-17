@@ -25,4 +25,5 @@ HOST,log.tagtic.cn
 HOST,pgdt.ugdtimg.com
 HOST,sdownload.stargame.com
 HOST,ulogs.umeng.com
+HOST,ulogs.umengcloud.com
 URL-REGEX,^https:\/\/www\.google\.com\/ads
