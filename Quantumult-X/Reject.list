@@ -26,4 +26,6 @@ HOST,pgdt.ugdtimg.com
 HOST,sdownload.stargame.com
 HOST,ulogs.umeng.com
 HOST,ulogs.umengcloud.com
+HOST,aaid.umeng.com
+HOST,aaid.uyunad.com
 URL-REGEX,^https:\/\/www\.google\.com\/ads

@@ -28,4 +28,6 @@ DOMAIN,sdownload.stargame.com
 DOMAIN,ulogs.umeng.com
 DOMAIN-KEYWORD,googleads
 DOMAIN,ulogs.umengcloud.com
+DOMAIN,aaid.umeng.com
+DOMAIN,aaid.uyunad.com
 URL-REGEX,^https:\/\/www\.google\.com\/ads
