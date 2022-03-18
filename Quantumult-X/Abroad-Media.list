@@ -257,6 +257,15 @@ HOST-KEYWORD,uk-live
 HOST-KEYWORD,voddazn
 HOST-KEYWORD,youtube
 HOST,play.googleapis.com
+HOST,hls-amt.itunes.apple.com
+HOST,hls.itunes.apple.com
+HOST,np-edge.itunes.apple.com
+HOST,play-edge.itunes.apple.com
+HOST,tv.applemusic.com
+HOST,uts-api.itunes.apple.com
+HOST-SUFFIX,tv.apple.com
+USER-AGENT,AppleTV*
+USER-AGENT,com.apple.tv*
 IP-CIDR,1.37.35.6/32,no-resolve
 IP-CIDR,101.100.179.242/32,no-resolve
 IP-CIDR,101.100.179.250/32,no-resolve
