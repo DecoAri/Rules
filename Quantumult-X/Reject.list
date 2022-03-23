@@ -28,4 +28,5 @@ HOST,ulogs.umeng.com
 HOST,ulogs.umengcloud.com
 HOST,aaid.umeng.com
 HOST,aaid.uyunad.com
+HOST,app.adjust.com
 URL-REGEX,^https:\/\/www\.google\.com\/ads

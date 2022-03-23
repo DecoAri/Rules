@@ -30,4 +30,5 @@ DOMAIN-KEYWORD,googleads
 DOMAIN,ulogs.umengcloud.com
 DOMAIN,aaid.umeng.com
 DOMAIN,aaid.uyunad.com
+DOMAIN,app.adjust.com
 URL-REGEX,^https:\/\/www\.google\.com\/ads
