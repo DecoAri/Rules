@@ -261,6 +261,9 @@ HOST-SUFFIX,welcometobestbuy.ca
 HOST-SUFFIX,wolfatbestbuy.com
 HOST-SUFFIX,wolfatbestbuy.net
 HOST-SUFFIX,www-bestbuystores.com
+HOST-KEYWORD,bestbuy
+HOST,logx.optimizely.com
+HOST,m.api.forter.com
 IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
 IP-CIDR,18.184.0.0/15,no-resolve
