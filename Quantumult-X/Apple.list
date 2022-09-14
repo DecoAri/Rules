@@ -74,10 +74,7 @@ HOST-SUFFIX,store.apple.com.edgekey.net
 HOST-SUFFIX,www.apple.com.edgekey.net
 HOST-SUFFIX,wwwicloud.com
 HOST-KEYWORD,apple.com.akadns.net
-HOST-KEYWORD,icloud
 HOST-KEYWORD,icloud.com.akadns.net
-HOST-KEYWORD,icoudo
-HOST-KEYWORD,icoudos
 HOST-KEYWORD,testflight
 IP-CIDR,139.178.128.0/18,no-resolve
 IP-CIDR,144.178.0.0/19,no-resolve
