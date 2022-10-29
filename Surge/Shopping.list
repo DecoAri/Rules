@@ -268,7 +268,6 @@ DOMAIN,in.appcenter.ms
 DOMAIN,m.csqtrk.net
 DOMAIN-SUFFIX,smartystreets.com
 DOMAIN-SUFFIX,ensighten.com
-DOMAIN-KEYWORD,bestbuy
 DOMAIN,logx.optimizely.com
 DOMAIN,m.api.forter.com
 IP-CIDR,13.32.0.0/15,no-resolve

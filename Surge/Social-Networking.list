@@ -33,8 +33,6 @@ DOMAIN-SUFFIX,thefacebook.com
 DOMAIN-SUFFIX,whatsapp.biz
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-KEYWORD,facebook
-DOMAIN-KEYWORD,whatsapp
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,t.co
@@ -51,7 +49,6 @@ DOMAIN-SUFFIX,twitterstat.us
 DOMAIN-SUFFIX,twtrdns.net
 DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,vine.co
-DOMAIN-KEYWORD,twitter
 IP-CIDR,18.194.0.0/15,no-resolve
 IP-CIDR,108.168.174.0/16,no-resolve
 IP-CIDR,103.4.96.0/22,no-resolve
