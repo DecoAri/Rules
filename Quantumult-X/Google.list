@@ -55,7 +55,7 @@ DOMAIN-SUFFIX,beatthatquote.com
 DOMAIN-SUFFIX,blink.org
 DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,blogger.com
-DOMAIN-WILDCARD,blogspot.*
+DOMAIN-WILDCARD,*.blogspot.*
 DOMAIN-SUFFIX,brocaproject.com
 DOMAIN-SUFFIX,brotli.org
 DOMAIN-SUFFIX,bumpshare.com
@@ -183,7 +183,7 @@ DOMAIN-SUFFIX,googl.com
 DOMAIN-SUFFIX,google-analytics-cn.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,google-syndication.com
-DOMAIN-WILDCARD,google.*
+DOMAIN-WILDCARD,*.google.*
 DOMAIN-SUFFIX,googleacquisitionmigration.com
 DOMAIN-SUFFIX,googleadapis.com
 DOMAIN-SUFFIX,googleadservices-cn.com
