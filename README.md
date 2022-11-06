@@ -22,4 +22,6 @@
 
 You will get the information of the copied rules from another Githuber in files.
         
+Of course, Any one can rewrite these JS or write by themselves, never mind. None of my business. No consequence with me. Do whatever you want. Thanks.
+
 Copyright: Deco
