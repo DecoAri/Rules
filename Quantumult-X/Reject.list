@@ -1,6 +1,6 @@
 HOST,app.adjust.world
 HOST,app.adjust.net.in
-HOST, graph.facebook.com
+HOST,graph.facebook.com
 HOST-SUFFIX,pglstatp-toutiao.com
 HOST-SUFFIX,iuuapp.com
 HOST-SUFFIX,google-analytics.com
