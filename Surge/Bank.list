@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,wise.com
 DOMAIN-KEYWORD,wise
 DOMAIN-SUFFIX,zen.com
-DOMAIN,ota.lokalise.co
+DOMAIN-SUFFIX,lokalise.co
 DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN,queue.api.gist.build
+DOMAIN-SUFFIX,lokalise.com
