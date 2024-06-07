@@ -3,5 +3,5 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,sprig.com
 DOMAIN-WILDCARD,stripe*amazonaws.com
-DOMAIN-WILDCARD,stripe-i m*amazonaws.com
+DOMAIN-WILDCARD,stripe-im*amazonaws.com
 DOMAIN-KEYWORD,stripe
